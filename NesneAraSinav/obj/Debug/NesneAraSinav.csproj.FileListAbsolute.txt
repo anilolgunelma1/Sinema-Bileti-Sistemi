@@ -1,0 +1,13 @@
+C:\Users\W7-PRO\source\repos\NesneAraSinav\NesneAraSinav\bin\Debug\NesneAraSinav.exe.config
+C:\Users\W7-PRO\source\repos\NesneAraSinav\NesneAraSinav\bin\Debug\NesneAraSinav.exe
+C:\Users\W7-PRO\source\repos\NesneAraSinav\NesneAraSinav\bin\Debug\NesneAraSinav.pdb
+C:\Users\W7-PRO\source\repos\NesneAraSinav\NesneAraSinav\obj\Debug\NesneAraSinav.csprojAssemblyReference.cache
+C:\Users\W7-PRO\source\repos\NesneAraSinav\NesneAraSinav\obj\Debug\NesneAraSinav.exe
+C:\Users\W7-PRO\source\repos\NesneAraSinav\NesneAraSinav\obj\Debug\NesneAraSinav.pdb
+C:\Users\ADmin\Desktop\NesneAraSinav\NesneAraSinav\bin\Debug\NesneAraSinav.exe.config
+C:\Users\ADmin\Desktop\NesneAraSinav\NesneAraSinav\bin\Debug\NesneAraSinav.exe
+C:\Users\ADmin\Desktop\NesneAraSinav\NesneAraSinav\bin\Debug\NesneAraSinav.pdb
+C:\Users\ADmin\Desktop\NesneAraSinav\NesneAraSinav\obj\Debug\NesneAraSinav.csprojAssemblyReference.cache
+C:\Users\ADmin\Desktop\NesneAraSinav\NesneAraSinav\obj\Debug\NesneAraSinav.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Desktop\NesneAraSinav\NesneAraSinav\obj\Debug\NesneAraSinav.exe
+C:\Users\ADmin\Desktop\NesneAraSinav\NesneAraSinav\obj\Debug\NesneAraSinav.pdb
